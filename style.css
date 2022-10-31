@@ -13,12 +13,12 @@ body {
 .inner {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	grid-template-rows: 200px 200px 200px;
+	grid-template-rows: 250px 250px 250px;
 }
 
 .img {
 	width: 130px;
-	max-height: 95px;
+	height: 130px;
 }
 
 .item {
